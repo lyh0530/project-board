@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56b9b196-8230-46f5-83b6-f00524657304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/koreait/projectboard/ProjectBoardApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/koreait/projectboard/ProjectBoardApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/project-board.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/project-board.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/project-board.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/project-board.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/koreait/projectboard/config/JpaConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-board.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/koreait/projectboard/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koreait/projectboard/domain/Article.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/koreait/projectboard/domain/ArticleComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/koreait/projectboard/domain/ArticleComment.java" afterDir="false" />
     </list>
@@ -52,6 +36,13 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -116,7 +107,7 @@
       <workItem from="1672185838953" duration="42000" />
       <workItem from="1672185896232" duration="2083000" />
       <workItem from="1672188399914" duration="77000" />
-      <workItem from="1672188503428" duration="2417000" />
+      <workItem from="1672188503428" duration="5871000" />
     </task>
     <servers />
   </component>
